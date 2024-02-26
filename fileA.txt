@@ -1,2 +1,3 @@
 A init
 A add new branch
+A add new text
