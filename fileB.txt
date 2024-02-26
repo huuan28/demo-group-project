@@ -2,3 +2,4 @@ B init
 B add
 B add new text
 B add text again
+
