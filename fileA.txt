@@ -1,1 +1,2 @@
 A init
+B add new text
